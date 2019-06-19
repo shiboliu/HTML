@@ -115,6 +115,9 @@ input{
 	line-height: 60px;
 	width: 1200px;
 }
+.body .list a{
+	color:#333333;
+}
 .body .div{
 	height: 45px;
 	width: 1200px;
